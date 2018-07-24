@@ -47,3 +47,7 @@ https://www.amazon.com/J-Deal%C2%AE-Micro-Helicopter-Airplane-Controls/dp/B00X7C
 Amazon Motors and gears:
 
 https://www.amazon.com/EUDAX-Rectangular-Electric-24000RPM-Electronic/dp/B077WWS63B/ref=sr_1_3?ie=UTF8&qid=1531851082&sr=8-3&keywords=3v+dc+motor&dpID=51n3yjbuzSL&preST=_SY300_QL70_&dpSrc=srch
+
+Tires: $3.80
+
+https://www.banggood.com/Austar-MINI-RC-128-RC-Car-Spare-Parts-4Pcs-Tyre-6803-p-1008924.html?rmmds=myorder&cur_warehouse=CN
