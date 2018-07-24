@@ -24,7 +24,7 @@ ESC: $6.85 (alternate)
 
 https://www.banggood.com/10A-ESC-Brushed-Speed-Controller-For-RC-Car-And-Boat-p-908719.html?rmmds=cart_middle_products&cur_warehouse=CN
 
-Motor: $1.52
+Motor: $1.52 (These motors cannot handle the voltage and heat up and melt. I'm looking for a better motor)
 
 https://www.banggood.com/Miniature-Small-Electric-Motor-Brushed-20MM-3V-DC-For-Smart-Robot-p-1017125.html?rmmds=myorder&cur_warehouse=CN
 
