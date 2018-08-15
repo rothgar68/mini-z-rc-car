@@ -3,6 +3,8 @@
 
 **Check the Wiki for updates and a list of components!**
 
+Aug 15, 2018 - Added more axle spacers for the wider axle.
+
 Aug 14, 2018 - Added rear body clip to replace the spring on the motormount, and new front bumber with body clip.
 
 Aug 14, 2018 - Added body-05.stl - this is the form used to thermoform the bodies. I was able to pull a couple from a variety of materials, and polycarb seemed to work best, with styrene not bad. Petg was the most difficult at .020 thickness.
