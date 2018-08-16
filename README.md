@@ -3,6 +3,8 @@
 
 **Check the Wiki for updates and a list of components!**
 
+Aug 16, 2018 - Added an updated steer-link-v10, more durable with more toe-in.
+
 Aug 15, 2018 - Added more axle spacers for the wider axle.
 
 Aug 14, 2018 - Added rear body clip to replace the spring on the motormount, and new front bumber with body clip.
