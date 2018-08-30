@@ -3,6 +3,8 @@
 
 **Check the Wiki for updates and a list of components!**
 
+Aug 30, 2018 - Added an updated reinforced front bumper and a full plate .stl for printing out all the parts.
+
 Aug 30, 2018 - Added updated rear spring/body clip combo (body-clip-rear-v2.stl).
 
 Aug 16, 2018 - Added an updated steer-link-v10, more durable with more toe-in.
